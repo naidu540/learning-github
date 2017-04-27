@@ -10,6 +10,7 @@ public class ForLoops
 		} 		
 		//Boolean operators
 		boolean a, b;
+		int d;
 		int k;
 		a=false;
 		b=true;
