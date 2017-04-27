@@ -5,6 +5,7 @@ public class ArthiOperations
 	public int salary = 10000;
     String name = "Naidu";
     String kid = "Aarohi";
+    String wifey = "shravs";
    public static void main(String[] args) 
    {
 	int sub,add,mul,div,i,j;
